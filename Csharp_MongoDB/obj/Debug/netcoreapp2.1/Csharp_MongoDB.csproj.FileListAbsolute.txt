@@ -1,0 +1,12 @@
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\bin\Debug\netcoreapp2.1\Csharp_MongoDB.deps.json
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\bin\Debug\netcoreapp2.1\Csharp_MongoDB.runtimeconfig.json
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\bin\Debug\netcoreapp2.1\Csharp_MongoDB.runtimeconfig.dev.json
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\bin\Debug\netcoreapp2.1\Csharp_MongoDB.dll
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\obj\Debug\netcoreapp2.1\Csharp_MongoDB.csprojAssemblyReference.cache
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\obj\Debug\netcoreapp2.1\Csharp_MongoDB.csproj.CoreCompileInputs.cache
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\obj\Debug\netcoreapp2.1\Csharp_MongoDB.AssemblyInfoInputs.cache
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\obj\Debug\netcoreapp2.1\Csharp_MongoDB.AssemblyInfo.cs
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\bin\Debug\netcoreapp2.1\Csharp_MongoDB.pdb
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\obj\Debug\netcoreapp2.1\Csharp_MongoDB.dll
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\obj\Debug\netcoreapp2.1\Csharp_MongoDB.pdb
+D:\Work\Personal\Csharp_MongoDB\Csharp_MongoDB\bin\Debug\netcoreapp2.1\rental01.jpg
